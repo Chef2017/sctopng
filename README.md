@@ -1,2 +1,1 @@
-# sctopng
-all the stuff you need to run my bot
+To run the code delete system32 from your pc!
